@@ -1,6 +1,6 @@
 ```sql
 -- liquibase formatted sql
--- changeset author:you
+-- changeset author:kate
 
 CREATE TABLE User (
     id BIGINT PRIMARY KEY,
