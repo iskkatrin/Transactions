@@ -18,4 +18,7 @@ public class BankAccount {
 
     @NotNull
     private BigDecimal balance;
+
+    @NotNull
+    private BigDecimal initialBalance;
 }
